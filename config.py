@@ -1,0 +1,3 @@
+MYSQL_HOST = 'localhost'
+MYSQL_USER = 'toxir'
+MYSQL_PASSWORD = '1234'
